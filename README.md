@@ -42,6 +42,8 @@ Features a comprehensive collection of analytical SQL queries designed to extrac
 2. Execute `Implementation.sql` in your SQL environment to build the relational structure.
 3. Open and execute `data_analysis.sql` to review analytical queries and insights.
 
+---
+
 📂 Repository Structure
 ├── Database-Design/          # ERD Diagrams, visual schema models, and assets
 ├── SQL-Scripts/
