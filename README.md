@@ -45,8 +45,12 @@ Features a comprehensive collection of analytical SQL queries designed to extrac
 ---
 
 📂 Repository Structure
-├── Database-Design/          # ERD Diagrams, visual schema models, and assets
+
+├── Database-Design
+
 ├── SQL-Scripts/
-│   ├── schema.sql            # Database DDL scripts (Tables & Constraints)
-│   └── queries_analysis.sql  # Complex queries, joins, and analytical reporting
-└── README.md                 # Project documentation
+
+│   ├── schema.sql           
+│   └── queries_analysis.sql  
+
+└── README.md
