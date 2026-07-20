@@ -1,2 +1,0 @@
-# CRM-Relational-Database-Design-Analysis
-Designed and implemented a relational CRM database system using SQL Server translating business requirements into a structured data model.The system covered multiple business domains including HR &amp; Operations, Support Tickets &amp; Marketing, and Finance.Involved ERD design, database normalization and mapping to ensure data consistency and scalability.
